@@ -1,0 +1,5 @@
+extension
+Duplicate selection or line hozzá kell adni ,Mithril Emmet,vscode-pdf,open in browser
+Live Share,LW3C Web Validator,Git Graph,W3C Web Validator,Live Server
+új fájnál  index kell mindig
+ctrl shift p wrap abrevation ctrl shift j, alt b , alt shift b
